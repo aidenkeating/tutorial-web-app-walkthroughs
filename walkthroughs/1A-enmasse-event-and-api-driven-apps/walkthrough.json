@@ -1,12 +1,3 @@
 {
-  "dependencies": {
-    "repos": [],
-    "serviceInstances": [{
-      "metadata": { "name": "spring-boot-rest-http-crud" },
-      "spec": {
-        "clusterServiceClassExternalName": "spring-boot-rest-http-crud",
-        "clusterServicePlanExternalName": "default"
-      }
-    }, "invalid"]
-  }
+
 }
